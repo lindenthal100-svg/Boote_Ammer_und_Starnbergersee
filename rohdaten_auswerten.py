@@ -89,10 +89,7 @@ def main(argv=None):
     pfade = bz.schreibe_ergebnisse(ausgabe, [erg], gitter, p)
     for b in erg.boote:
         b["_ufernah_m"] = p.ufernah_m
-    titel = (f"{len(erg.boote)} Boote · {datum:%d.%m.%Y}\n"
-             f"{bz.SEE_NAME} · {zeit} UTC · {satellit}\n"
-             f"gelb = offener See · orange = ufernah · □ = Fahrgastschiff\n"
-             f"Pfeil = Fahrtrichtung · grau = nicht auswertbar")
+    titel = bz.vorschau_titel(datum, zeit, satellit, erg.boote, p)
     vorschau = os.path.join(ausgabe, f"vorschau_{datum.isoformat()}.png")
     bz.speichere_vorschau(vorschau, (red, green, blue), see, info["gueltig"], erg.boote, titel)
 

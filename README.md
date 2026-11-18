@@ -64,7 +64,7 @@ Mit **Strg+C** kannst du jederzeit abbrechen, die bis dahin ausgewerteten Tage w
 | `boote.csv` | jedes Boot: Position, Typ, geschätzte Länge, Größe (klein unter 6 m, mittel 6–15 m, groß ab 15 m), Bewegung, Fahrtrichtung, Geschwindigkeit, Umgebung, nächster Anleger, Uferabstand, ortsfest. Siehe *Attribute* |
 | `boote.geojson` | dieselben Boote zum Öffnen in QGIS, geojson.io oder Google Earth |
 | `verlauf.png` | Balkendiagramm: Boote je Aufnahmetag, bewölkte Tage als × |
-| `vorschau_<datum>.png` | Satellitenbild mit markierten Booten (nur mit `--vorschau`): Kreis = Boot, weißes Quadrat = Fahrgastschiff, Pfeil = Fahrtrichtung, grau = ausgeblendet (Wolken, Schleier, Wolkenfetzen) |
+| `vorschau_<datum>.png` | Satellitenbild mit markierten Booten (nur mit `--vorschau`): Kreis = Boot, weißes Quadrat = Fahrgastschiff, Pfeil = Fahrtrichtung, grau = ausgeblendet (Wolken, Schleier, Wolkenfetzen). Die Legende nennt die Anzahl je Symbol. „Fahrgastschiff (keins erkannt)“ heißt: An diesem Tag wurde kein Fahrgastschiff auf offenem Wasser gefunden, deshalb gibt es kein Quadrat |
 | `starnberger_see_osm.geojson` / `ammersee_osm.geojson` | zwischengespeicherter Seeumriss mit Stegen und Schiffsanlegern. Löschen, um ihn neu zu laden. Ein älterer Zwischenspeicher ohne Anleger wird automatisch einmal neu geladen |
 
 Die CSV-Dateien sind für ein deutsches Excel eingestellt (Semikolon, Dezimalkomma) und öffnen sich per Doppelklick richtig.

@@ -1095,6 +1095,22 @@ def lese_reflexion(item, rolle, gitter, anbieter):
 # Ausgabe
 # --------------------------------------------------------------------------- #
 
+def vorschau_titel(datum, zeit, satellit, boote, p: Parameter):
+    """Titel und Legende des Vorschaubilds, mit der Anzahl je Symbol. So ist klar, dass z. B.
+    ein fehlendes Quadrat heißt: an diesem Tag kein Fahrgastschiff erkannt."""
+    offen = sum(b["abstand_ufer_m"] >= p.ufernah_m for b in boote)
+    schiffe = sum(b.get("typ") == "Fahrgastschiff" for b in boote)
+    pfeile = sum(b.get("richtung_grad") is not None for b in boote)
+    return "\n".join([
+        f"{len(boote)} Boote · {datum:%d.%m.%Y}",
+        f"{SEE_NAME} · {zeit} UTC · {satellit}",
+        f"○ gelb = offener See ({offen}) · ○ orange = ufernah ({len(boote) - offen})",
+        f"□ = Fahrgastschiff ({schiffe if schiffe else 'keins erkannt'}) · "
+        f"→ = Fahrtrichtung ({pfeile if pfeile else 'keine erkannt'})",
+        "grau = nicht auswertbar (Wolken, Schleier, Ufer)",
+    ])
+
+
 def speichere_vorschau(pfad, rgb, see, gueltig, boote, titel):
     import matplotlib
     matplotlib.use("Agg")
@@ -1117,8 +1133,12 @@ def speichere_vorschau(pfad, rgb, see, gueltig, boote, titel):
 
     hoehe, breite = bild.shape[:2]
     zoll = 12.0
-    kopf = 0.07                                  # Platz für den Titel oben
-    fig = plt.figure(figsize=(max(zoll * breite / hoehe, 4.0), zoll / (1 - kopf)),
+    zeilen = titel.split("\n")
+    zeile_zoll = 0.16                            # Zeilenhöhe der Legende
+    kopf_zoll = 0.35 + zeile_zoll * len(zeilen)  # Platz für Titel und Legende oben
+    hoehe_zoll = zoll + kopf_zoll
+    kopf = kopf_zoll / hoehe_zoll
+    fig = plt.figure(figsize=(max(zoll * breite / hoehe, 4.0), hoehe_zoll),
                      dpi=max(100, 2 * hoehe / zoll))
     ax = fig.add_axes((0, 0, 1, 1 - kopf))
     ax.imshow(bild, interpolation="nearest")
@@ -1140,11 +1160,11 @@ def speichere_vorschau(pfad, rgb, see, gueltig, boote, titel):
                         xytext=(x + r * math.sin(w), y - r * math.cos(w)),
                         arrowprops=dict(arrowstyle="-|>", color="#ffffff", lw=1.0, mutation_scale=7))
     ax.set_axis_off()
-    zeilen = titel.split("\n")
-    fig.text(0.03, 1 - kopf * 0.3, zeilen[0], fontsize=11, va="center", color=FARBE_TEXT,
-             fontweight="bold")
-    fig.text(0.03, 1 - kopf * 0.7, "\n".join(zeilen[1:]), fontsize=8, va="center",
-             color=FARBE_TEXT2, linespacing=1.4)
+    y = 1 - 0.22 / hoehe_zoll
+    fig.text(0.03, y, zeilen[0], fontsize=11, va="center", color=FARBE_TEXT, fontweight="bold")
+    for zeile in zeilen[1:]:
+        y -= (zeile_zoll if y < 1 - 0.3 / hoehe_zoll else 0.27) / hoehe_zoll
+        fig.text(0.03, y, zeile, fontsize=8, va="center", color=FARBE_TEXT2)
     fig.savefig(pfad, facecolor=FARBE_FLAECHE)
     plt.close(fig)
 
@@ -1491,10 +1511,7 @@ def main(argv=None):
             if args.vorschau:
                 for b in boote:
                     b["_ufernah_m"] = p.ufernah_m
-                titel = (f"{len(boote)} Boote · {tag:%d.%m.%Y}\n"
-                         f"{SEE_NAME} · {zeit} UTC · {satellit}\n"
-                         f"gelb = offener See · orange = ufernah · □ = Fahrgastschiff\n"
-                         f"Pfeil = Fahrtrichtung · grau = nicht auswertbar")
+                titel = vorschau_titel(tag, zeit, satellit, boote, p)
                 speichere_vorschau(os.path.join(args.ausgabe, f"vorschau_{tag.isoformat()}.png"),
                                    (red, green, blue), see_t, gueltig, boote, titel)
     except KeyboardInterrupt:
