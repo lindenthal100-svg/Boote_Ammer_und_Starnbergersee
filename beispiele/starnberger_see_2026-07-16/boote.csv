@@ -1,0 +1,299 @@
+﻿datum;wochentag;uhrzeit_utc;nr;breitengrad;laengengrad;typ;bootslaenge_m;groesse;bewegung;richtung;richtung_grad;geschwindigkeit_kmh;geschwindigkeit_fehler_kmh;umgebung;naechster_anleger;abstand_anleger_m;abstand_ufer_m;lage;ortsfest;wiederholung_prozent;pixel;kern_m;kontrast_nir;signal_rausch;szene
+2026-07-16;Do;10:17;1;47,995675;11,346725;Boot;6;mittel;unklar;;;;;einzeln;;;41;ufernah;unbekannt;;6;10;0,023;17,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;2;47,995694;11,347012;Boot;6;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;5;10;0,021;16,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;3;47,995141;11,355611;Boot;8;mittel;unklar;;;;;einzeln;;;114;ufernah;unbekannt;;11;22;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;4;47,995225;11,347541;Boot;5;klein;unklar;;;;;einzeln;;;114;ufernah;unbekannt;;5;10;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;5;47,994793;11,356027;Boot;7;mittel;unklar;;;;;einzeln;;;100;ufernah;unbekannt;;6;22;0,021;16,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;6;47,994325;11,356688;Boot;8;mittel;unklar;;;;;einzeln;;;78;ufernah;unbekannt;;13;42;0,010;7,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;7;47,993828;11,356790;Boot;7;mittel;unklar;;;;;einzeln;;;76;ufernah;unbekannt;;7;20;0,018;13,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;8;47,993817;11,354453;Boot;6;klein;unklar;;;;;einzeln;;;251;offener See;unbekannt;;5;20;0,018;13,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;9;47,993880;11,341920;Boot;6;klein;unklar;;;;;einzeln;;;100;ufernah;unbekannt;;6;10;0,014;10,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;10;47,993717;11,342223;Boot;4;klein;unklar;;;;;einzeln;;;120;ufernah;unbekannt;;5;10;0,009;7,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;11;47,992675;11,343602;Boot;7;mittel;unklar;;;;;einzeln;;;226;offener See;unbekannt;;6;22;0,022;16,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;12;47,992307;11,356213;Boot;6;klein;unklar;;;;;einzeln;;;175;offener See;unbekannt;;5;20;0,020;15,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;13;47,992210;11,341469;Boot;4;klein;unklar;;;;;einzeln;;;148;ufernah;unbekannt;;4;22;0,010;7,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;14;47,991062;11,339942;Boot;6;mittel;unklar;;;;;einzeln;;;60;ufernah;unbekannt;;6;10;0,021;15,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;15;47,991154;11,340191;Boot;7;mittel;unklar;;;;;einzeln;;;76;ufernah;unbekannt;;8;10;0,015;11,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;16;47,989872;11,344042;Boot;5;klein;unklar;;;;;einzeln;;;389;offener See;unbekannt;;5;20;0,018;13,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;17;47,989110;11,339483;Boot;5;klein;unklar;;;;;einzeln;;;104;ufernah;unbekannt;;5;20;0,013;9,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;18;47,988469;11,338748;Boot;6;mittel;unklar;;;;;einzeln;;;63;ufernah;unbekannt;;6;10;0,020;14,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;19;47,988636;11,338919;Boot;6;mittel;unklar;;;;;einzeln;;;63;ufernah;unbekannt;;7;10;0,014;10,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;20;47,988808;11,338872;Boot;5;klein;unklar;;;;;einzeln;;;60;ufernah;unbekannt;;6;10;0,010;7,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;21;47,984570;11,358482;Boot;5;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;3;10;0,025;19,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;22;47,986649;11,358136;Boot;7;mittel;unklar;;;;;einzeln;;;51;ufernah;unbekannt;;6;10;0,023;17,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;23;47,986923;11,357837;Boot;7;mittel;unklar;;;;;einzeln;;;80;ufernah;unbekannt;;8;10;0,022;16,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;24;47,986549;11,357862;Boot;4;klein;unklar;;;;;einzeln;;;70;ufernah;unbekannt;;5;10;0,010;7,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;25;47,986662;11,338206;Boot;7;mittel;unklar;;;;;einzeln;;;76;ufernah;unbekannt;;6;10;0,027;20,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;26;47,986353;11,338046;Boot;7;mittel;unklar;;;;;einzeln;;;82;ufernah;unbekannt;;5;10;0,020;14,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;27;47,986301;11,337464;Boot;7;mittel;unklar;;;;;einzeln;;;45;ufernah;unbekannt;;7;22;0,024;18,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;28;47,985824;11,347971;Boot;8;mittel;fährt;NO;28;;;einzeln;;;791;offener See;unbekannt;;11;20;0,020;15,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;29;47,985953;11,337885;Boot;5;klein;unklar;;;;;einzeln;;;89;ufernah;unbekannt;;6;20;0,015;11,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;30;47,984721;11,355960;Boot;5;klein;unklar;;;;;einzeln;;;220;offener See;unbekannt;;4;20;0,012;8,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;31;47,984006;11,337274;Boot;5;klein;unklar;;;;;einzeln;;;122;ufernah;unbekannt;;5;20;0,009;6,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;32;47,983584;11,357924;Boot;9;mittel;unklar;;;;;einzeln;;;70;ufernah;unbekannt;;10;43;0,024;17,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;33;47,983605;11,335484;Boot;6;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;5;10;0,026;19,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;34;47,982340;11,357901;Boot;14;mittel;unklar;;;;;einzeln;;;61;ufernah;unbekannt;;32;99;0,028;21,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;35;47,981633;11,342859;Boot;5;klein;unklar;;;;;einzeln;;;613;offener See;unbekannt;;5;20;0,020;14,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;36;47,980652;11,358249;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;61;ufernah;unbekannt;;3;10;0,024;18,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;37;47,980437;11,358242;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;5;10;0,024;17,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;38;47,980229;11,357926;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;54;ufernah;unbekannt;;6;10;0,021;16,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;39;47,980015;11,357463;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;71;ufernah;unbekannt;;4;10;0,020;15,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;40;47,980128;11,357694;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;67;ufernah;unbekannt;;6;10;0,016;12,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;41;47,980794;11,357954;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;80;ufernah;unbekannt;;3;10;0,013;9,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;42;47,980323;11,357723;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;76;ufernah;unbekannt;;3;10;0,012;9,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;43;47,979111;11,356858;Boot;6;klein;unklar;;;;;einzeln;;;64;ufernah;unbekannt;;5;10;0,030;22,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;44;47,979192;11,357076;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;54;ufernah;unbekannt;;7;10;0,016;11,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;45;47,979710;11,357422;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;7;10;0,016;11,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;46;47,978816;11,356742;Boot;4;klein;unklar;;;;;einzeln;;;57;ufernah;unbekannt;;3;10;0,013;9,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;47;47,975685;11,353038;Boot;5;klein;unklar;;;;;einzeln;;;61;ufernah;unbekannt;;5;20;0,016;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;48;47,974146;11,351486;Boot;6;mittel;unklar;;;;;einzeln;;;63;ufernah;unbekannt;;7;20;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;49;47,973829;11,351341;Boot;5;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;3;22;0,020;14,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;50;47,972943;11,336225;Boot;6;mittel;unklar;;;;;einzeln;;;544;offener See;unbekannt;;6;20;0,022;16,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;51;47,966718;11,342952;Boot;5;klein;unklar;;;;;einzeln;;;400;offener See;unbekannt;;4;20;0,015;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;52;47,965847;11,326959;Boot;6;klein;unklar;;;;;einzeln;;;255;offener See;unbekannt;;5;20;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;53;47,962387;11,323929;Boot;7;mittel;fährt;SW;221;;;einzeln;;;304;offener See;unbekannt;;8;20;0,023;17,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;54;47,960916;11,344637;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;76;ufernah;unbekannt;;9;58;0,012;8,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;55;47,959812;11,344689;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;5;10;0,032;23,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;56;47,960023;11,343800;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;100;ufernah;unbekannt;;5;10;0,031;23,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;57;47,960297;11,344556;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;5;10;0,025;18,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;58;47,960639;11,344215;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;99;ufernah;unbekannt;;6;10;0,024;18,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;59;47,960491;11,344891;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;3;10;0,023;17,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;60;47,960324;11,343772;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;104;ufernah;unbekannt;;6;10;0,021;15,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;61;47,960466;11,344022;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;94;ufernah;unbekannt;;8;10;0,021;15,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;62;47,960036;11,344062;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;80;ufernah;unbekannt;;7;10;0,019;14,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;63;47,960542;11,344570;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;70;ufernah;unbekannt;;5;10;0,015;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;64;47,959959;11,344617;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;40;ufernah;unbekannt;;2;10;0,013;9,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;65;47,959383;11,344004;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;81;ufernah;unbekannt;;4;10;0,019;14,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;66;47,959581;11,329952;Boot;5;klein;unklar;;;;;einzeln;;;837;offener See;unbekannt;;5;20;0,016;11,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;67;47,957699;11,338927;Boot;5;klein;unklar;;;;;einzeln;;;364;offener See;unbekannt;;6;22;0,015;11,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;68;47,954581;11,342361;Boot;7;mittel;unklar;;;;;einzeln;;;45;ufernah;unbekannt;;7;20;0,019;14,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;69;47,953985;11,313255;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;102;ufernah;unbekannt;;5;10;0,022;16,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;70;47,954636;11,313660;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;85;ufernah;unbekannt;;5;10;0,021;15,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;71;47,954759;11,313440;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;57;ufernah;unbekannt;;4;10;0,017;13,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;72;47,954492;11,313355;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;78;ufernah;unbekannt;;5;10;0,017;13,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;73;47,954082;11,313587;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;126;ufernah;unbekannt;;5;10;0,016;12,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;74;47,954300;11,313763;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;113;ufernah;unbekannt;;5;10;0,016;11,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;75;47,953815;11,313784;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;146;ufernah;unbekannt;;4;10;0,013;9,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;76;47,954735;11,312895;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;41;ufernah;unbekannt;;4;10;0,013;9,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;77;47,954246;11,313190;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;92;ufernah;unbekannt;;5;10;0,012;9,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;78;47,954719;11,313118;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;4;10;0,009;6,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;79;47,954132;11,341691;Boot;9;mittel;unklar;;;;;einzeln;;;91;ufernah;unbekannt;;8;20;0,035;26,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;80;47,953814;11,342413;Boot;6;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;5;20;0,022;16,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;81;47,954006;11,312561;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;54;ufernah;unbekannt;;6;10;0,027;19,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;82;47,953789;11,312785;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;81;ufernah;unbekannt;;4;10;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;83;47,954143;11,312724;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;58;ufernah;unbekannt;;4;10;0,017;12,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;84;47,953725;11,312600;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;71;ufernah;unbekannt;;4;10;0,016;12,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;85;47,953780;11,311727;Boot;3;klein;liegt;;;;;Bojenfeld/Hafen;;;36;ufernah;unbekannt;;1;10;0,016;12,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;86;47,953719;11,312106;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;3;10;0,014;10,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;87;47,953296;11,311979;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;85;ufernah;unbekannt;;6;10;0,038;28,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;88;47,953303;11,312415;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;103;ufernah;unbekannt;;7;10;0,025;18,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;89;47,953301;11,312956;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;127;ufernah;unbekannt;;6;10;0,023;17,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;90;47,953075;11,312601;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;130;ufernah;unbekannt;;6;10;0,015;11,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;91;47,953415;11,312650;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;99;ufernah;unbekannt;;6;10;0,014;10,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;92;47,953408;11,313857;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;170;offener See;unbekannt;;7;20;0,032;23,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;93;47,953087;11,313899;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;192;offener See;unbekannt;;5;20;0,032;23,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;94;47,952994;11,313289;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;170;offener See;unbekannt;;5;10;0,024;17,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;95;47,952992;11,313062;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;156;offener See;unbekannt;;4;10;0,010;7,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;96;47,952024;11,341637;Boot;6;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;5;10;0,019;14,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;97;47,951802;11,341778;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;36;ufernah;unbekannt;;3;10;0,018;13,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;98;47,951868;11,341074;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;85;ufernah;unbekannt;;5;20;0,016;12,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;99;47,951591;11,341365;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;60;ufernah;unbekannt;;3;10;0,032;24,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;100;47,951166;11,341229;Boot;10;mittel;liegt;;;;;Bojenfeld/Hafen;;;61;ufernah;unbekannt;;10;10;0,054;40,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;101;47,950792;11,341496;Boot;6;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;3;10;0,033;24,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;102;47,950541;11,310643;Boot;7;mittel;unklar;;;;;einzeln;;;71;ufernah;unbekannt;;5;10;0,036;26,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;103;47,950365;11,310286;Boot;6;klein;unklar;;;;;einzeln;;;54;ufernah;unbekannt;;5;10;0,022;16,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;104;47,950792;11,310533;Boot;5;klein;unklar;;;;;einzeln;;;45;ufernah;unbekannt;;6;10;0,015;11,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;105;47,949762;11,316959;Boot;5;klein;unklar;;;;;einzeln;;;534;offener See;unbekannt;;5;22;0,012;9,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;106;47,948452;11,341021;Boot;3;klein;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;1;10;0,015;11,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;107;47,948238;11,308583;Boot;4;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;3;20;0,015;11,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;108;47,945267;11,339668;Boot;6;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;6;33;0,016;12,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;109;47,943430;11,324906;Boot;7;mittel;unklar;;;;;einzeln;;;998;offener See;unbekannt;;9;20;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;110;47,941719;11,337539;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;5;22;0,021;15,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;111;47,940745;11,336593;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;82;ufernah;unbekannt;;5;10;0,042;31,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;112;47,941360;11,337097;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;82;ufernah;unbekannt;;6;10;0,018;13,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;113;47,940965;11,336866;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;76;ufernah;unbekannt;;5;10;0,017;13,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;114;47,941190;11,337293;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;58;ufernah;unbekannt;;7;10;0,017;12,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;115;47,940979;11,337184;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;58;ufernah;unbekannt;;7;10;0,015;11,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;116;47,940408;11,336886;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;60;ufernah;unbekannt;;4;20;0,022;16,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;117;47,940719;11,305425;Boot;12;mittel;unklar;;;;;einzeln;;;180;offener See;unbekannt;;26;48;0,021;15,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;118;47,940095;11,336622;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;73;ufernah;unbekannt;;11;38;0,019;14,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;119;47,939451;11,336659;Boot;6;klein;unklar;;;;;einzeln;;;41;ufernah;unbekannt;;7;44;0,008;6,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;120;47,938076;11,335842;Boot;6;klein;unklar;;;;;einzeln;;;41;ufernah;unbekannt;;4;10;0,023;17,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;121;47,938474;11,336142;Boot;4;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;2;10;0,018;13,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;122;47,934636;11,305089;Boot;3;klein;unklar;;;;;einzeln;;;391;offener See;unbekannt;;3;22;0,008;6,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;123;47,931072;11,307815;Boot;25;groß;fährt;NO;29;19;5;einzeln;;;653;offener See;unbekannt;;31;22;0,190;142,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;124;47,921234;11,294559;Boot;7;mittel;unklar;;;;;einzeln;;;32;ufernah;unbekannt;;5;10;0,024;18,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;125;47,921080;11,294596;Boot;7;mittel;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;6;10;0,024;17,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;126;47,920932;11,294303;Boot;5;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;4;10;0,012;9,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;127;47,918684;11,296424;Boot;5;klein;unklar;;;;;einzeln;;;319;offener See;unbekannt;;7;22;0,012;8,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;128;47,918000;11,289905;Boot;6;mittel;unklar;;;;;einzeln;;;41;ufernah;unbekannt;;5;10;0,021;15,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;129;47,918287;11,290462;Boot;5;klein;unklar;;;;;einzeln;;;51;ufernah;unbekannt;;4;10;0,016;11,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;130;47,915632;11,330664;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;85;ufernah;unbekannt;;7;10;0,029;21,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;131;47,914341;11,330636;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;100;ufernah;unbekannt;;4;10;0,027;20,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;132;47,915555;11,331068;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;60;ufernah;unbekannt;;7;10;0,025;18,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;133;47,916893;11,330617;Boot;6;mittel;unklar;;;;;einzeln;;;60;ufernah;unbekannt;;5;10;0,024;18,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;134;47,914900;11,331028;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;76;ufernah;unbekannt;;7;10;0,024;17,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;135;47,915820;11,331056;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;51;ufernah;unbekannt;;7;10;0,021;16,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;136;47,914463;11,330830;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;85;ufernah;unbekannt;;6;10;0,020;14,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;137;47,914187;11,330977;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;70;ufernah;unbekannt;;5;10;0,019;14,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;138;47,915124;11,331162;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;61;ufernah;unbekannt;;7;10;0,019;14,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;139;47,915285;11,331290;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;7;10;0,018;13,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;140;47,914592;11,330642;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;108;ufernah;unbekannt;;6;10;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;141;47,915410;11,330781;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;82;ufernah;unbekannt;;4;10;0,013;9,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;142;47,915129;11,330677;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;100;ufernah;unbekannt;;4;10;0,009;7,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;143;47,917471;11,290308;Boot;6;mittel;fährt;NO;39;;;einzeln;;;95;ufernah;unbekannt;;9;10;0,020;15,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;144;47,916132;11,330587;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;81;ufernah;unbekannt;;5;20;0,022;16,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;145;47,910934;11,285596;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;100;ufernah;unbekannt;;5;10;0,034;25,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;146;47,911857;11,285373;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;78;ufernah;unbekannt;;6;10;0,032;23,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;147;47,911173;11,284829;Boot;9;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;8;10;0,030;22,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;148;47,912151;11,285769;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;78;ufernah;unbekannt;;6;10;0,030;22,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;149;47,910715;11,284763;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;41;ufernah;unbekannt;;4;10;0,027;20,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;150;47,912047;11,286436;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;98;ufernah;unbekannt;;7;10;0,027;20,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;151;47,912318;11,285400;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;42;ufernah;unbekannt;;7;10;0,026;19,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;152;47,911342;11,286042;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;139;ufernah;unbekannt;;5;10;0,025;18,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;153;47,912123;11,286223;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;82;ufernah;unbekannt;;6;10;0,022;16,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;154;47,911549;11,285062;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;82;ufernah;unbekannt;;6;10;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;155;47,912239;11,286715;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;89;ufernah;unbekannt;;8;10;0,020;14,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;156;47,911233;11,285492;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;98;ufernah;unbekannt;;7;10;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;157;47,911802;11,286178;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;122;ufernah;unbekannt;;4;10;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;158;47,912672;11,286379;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;4;10;0,017;12,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;159;47,911883;11,286676;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;125;ufernah;unbekannt;;4;10;0,014;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;160;47,911437;11,284708;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;51;ufernah;unbekannt;;7;10;0,014;10,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;161;47,911598;11,285650;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;113;ufernah;unbekannt;;7;10;0,014;10,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;162;47,912432;11,286306;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;58;ufernah;unbekannt;;4;10;0,013;10,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;163;47,912659;11,286621;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;41;ufernah;unbekannt;;6;10;0,012;9,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;164;47,911756;11,285909;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;113;ufernah;unbekannt;;4;10;0,012;8,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;165;47,910747;11,285205;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;64;ufernah;unbekannt;;3;10;0,011;8,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;166;47,910904;11,284963;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;3;10;0,010;7,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;167;47,911153;11,322600;Boot;4;klein;unklar;;;;;einzeln;;;733;offener See;unbekannt;;5;29;0,009;6,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;168;47,911850;11,284519;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;6;38;0,013;10,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;169;47,906872;11,332427;Boot;6;mittel;unklar;;;;;einzeln;;;73;ufernah;unbekannt;;6;10;0,022;16,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;170;47,906620;11,332803;Boot;7;mittel;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;7;10;0,018;13,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;171;47,906421;11,332765;Boot;5;klein;unklar;;;;;einzeln;;;54;ufernah;unbekannt;;5;10;0,014;10,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;172;47,905025;11,332664;Boot;6;klein;unklar;;;;;einzeln;;;92;ufernah;unbekannt;;4;20;0,016;11,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;173;47,905129;11,323350;Boot;8;mittel;fährt;O;83;;;einzeln;;;747;offener See;unbekannt;;12;37;0,017;12,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;174;47,904762;11,332564;Boot;4;klein;unklar;;;;;einzeln;;;78;ufernah;unbekannt;;2;20;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;175;47,904404;11,332607;Boot;6;mittel;unklar;;;;;einzeln;;;61;ufernah;unbekannt;;5;10;0,020;14,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;176;47,904440;11,332803;Boot;7;mittel;unklar;;;;;einzeln;;;45;ufernah;unbekannt;;8;10;0,017;12,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;177;47,902021;11,332683;Boot;7;mittel;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;7;10;0,020;14,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;178;47,902311;11,332702;Boot;5;klein;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;5;10;0,014;10,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;179;47,900574;11,332829;Boot;7;mittel;unklar;;;;;einzeln;;;42;ufernah;unbekannt;;6;20;0,031;23,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;180;47,900400;11,321515;Boot;6;klein;unklar;;;;;einzeln;;;865;offener See;unbekannt;;5;20;0,016;11,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;181;47,898690;11,276782;Boot;6;klein;unklar;;;;;einzeln;;;58;ufernah;unbekannt;;6;29;0,014;10,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;182;47,898171;11,277048;Boot;6;klein;unklar;;;;;einzeln;;;41;ufernah;unbekannt;;5;20;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;183;47,897785;11,277553;Boot;6;mittel;unklar;;;;;einzeln;;;63;ufernah;unbekannt;;6;20;0,022;16,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;184;47,895014;11,274210;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;4;20;0,033;24,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;185;47,894857;11,273379;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;3;10;0,023;17,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;186;47,894670;11,273335;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;45;ufernah;unbekannt;;6;10;0,018;13,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;187;47,894562;11,273689;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;60;ufernah;unbekannt;;5;10;0,013;9,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;188;47,894728;11,274282;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;57;ufernah;unbekannt;;4;20;0,009;6,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;189;47,894235;11,273981;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;102;ufernah;unbekannt;;5;20;0,020;14,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;190;47,891875;11,271918;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;36;ufernah;unbekannt;;5;10;0,022;16,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;191;47,891824;11,272297;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;64;ufernah;unbekannt;;7;10;0,018;13,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;192;47,891323;11,273074;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;142;ufernah;unbekannt;;6;10;0,035;26,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;193;47,890026;11,272125;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;120;ufernah;unbekannt;;7;10;0,027;20,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;194;47,889655;11,272495;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;151;offener See;unbekannt;;8;10;0,025;18,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;195;47,890184;11,272465;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;128;ufernah;unbekannt;;5;10;0,024;18,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;196;47,890532;11,272386;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;98;ufernah;unbekannt;;7;10;0,024;17,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;197;47,890350;11,272134;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;92;ufernah;unbekannt;;8;10;0,024;17,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;198;47,890664;11,273122;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;143;ufernah;unbekannt;;4;10;0,022;16,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;199;47,889946;11,272487;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;149;ufernah;unbekannt;;6;10;0,022;16,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;200;47,890798;11,272706;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;110;ufernah;unbekannt;;7;10;0,021;16,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;201;47,889529;11,272931;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;182;offener See;unbekannt;;5;10;0,021;16,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;202;47,891649;11,273107;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;125;ufernah;unbekannt;;7;10;0,021;15,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;203;47,891260;11,271621;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;41;ufernah;unbekannt;;6;10;0,020;14,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;204;47,890440;11,271736;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;64;ufernah;unbekannt;;6;10;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;205;47,891070;11,272873;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;122;ufernah;unbekannt;;6;10;0,017;12,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;206;47,889830;11,272232;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;130;ufernah;unbekannt;;7;10;0,017;12,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;207;47,891033;11,271635;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;5;10;0,016;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;208;47,891071;11,272071;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;63;ufernah;unbekannt;;4;10;0,015;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;209;47,890852;11,271633;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;32;ufernah;unbekannt;;4;10;0,015;11,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;210;47,890919;11,271854;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;6;10;0,015;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;211;47,891041;11,272463;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;91;ufernah;unbekannt;;4;10;0,014;10,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;212;47,890626;11,272790;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;124;ufernah;unbekannt;;6;10;0,014;10,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;213;47,890644;11,271733;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;4;10;0,008;6,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;214;47,891510;11,272474;Boot;3;klein;liegt;;;;;Bojenfeld/Hafen;;;92;ufernah;unbekannt;;2;10;0,009;6,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;215;47,891383;11,272101;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;70;ufernah;unbekannt;;4;20;0,021;15,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;216;47,890360;11,273816;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;209;offener See;unbekannt;;5;10;0,034;25,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;217;47,889911;11,273036;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;178;offener See;unbekannt;;7;10;0,034;25,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;218;47,890179;11,273167;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;170;offener See;unbekannt;;6;10;0,021;15,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;219;47,890135;11,274105;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;234;offener See;unbekannt;;7;10;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;220;47,890288;11,273421;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;184;offener See;unbekannt;;6;10;0,014;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;221;47,890365;11,273101;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;152;offener See;unbekannt;;6;10;0,012;8,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;222;47,889709;11,273574;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;222;offener See;unbekannt;;8;10;0,041;31,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;223;47,889561;11,273419;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;221;offener See;unbekannt;;6;10;0,018;13,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;224;47,885086;11,332526;Boot;5;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;4;22;0,014;10,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;225;47,883436;11,332688;Boot;5;klein;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;3;10;0,023;17,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;226;47,875224;11,332206;Boot;6;mittel;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;4;10;0,022;16,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;227;47,875384;11,332092;Boot;7;mittel;unklar;;;;;einzeln;;;54;ufernah;unbekannt;;6;10;0,019;14,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;228;47,874559;11,332537;Boot;9;mittel;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;4;22;0,047;35,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;229;47,872183;11,331074;Boot;4;klein;unklar;;;;;einzeln;;;40;ufernah;unbekannt;;2;20;0,014;10,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;230;47,870550;11,332100;Boot;6;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;6;32;0,014;10,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;231;47,870077;11,332546;Boot;4;klein;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;4;22;0,010;7,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;232;47,868919;11,295972;Boot;8;mittel;unklar;;;;;einzeln;;;58;ufernah;unbekannt;;8;22;0,029;21,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;233;47,864479;11,300650;Boot;8;mittel;liegt;;;;;Bojenfeld/Hafen;;;92;ufernah;unbekannt;;5;10;0,036;27,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;234;47,865011;11,300454;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;104;ufernah;unbekannt;;6;10;0,031;23,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;235;47,864648;11,300283;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;78;ufernah;unbekannt;;7;10;0,023;17,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;236;47,864724;11,299760;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;50;ufernah;unbekannt;;3;10;0,020;14,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;237;47,865177;11,299503;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;45;ufernah;unbekannt;;6;10;0,017;12,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;238;47,865251;11,299810;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;61;ufernah;unbekannt;;7;10;0,015;11,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;239;47,864917;11,299499;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;36;ufernah;unbekannt;;5;10;0,014;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;240;47,864461;11,299841;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;42;ufernah;unbekannt;;6;10;0,012;8,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;241;47,864164;11,301223;Boot;5;klein;unklar;;;;;einzeln;;;94;ufernah;unbekannt;;5;10;0,013;9,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;242;47,863971;11,300965;Boot;4;klein;unklar;;;;;einzeln;;;67;ufernah;unbekannt;;4;10;0,012;9,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;243;47,856622;11,327305;Boot;35;groß;fährt;NO;27;20;5;einzeln;;;638;offener See;unbekannt;;42;22;0,305;228,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;244;47,851884;11,299045;Boot;5;klein;unklar;;;;;einzeln;;;282;offener See;unbekannt;;4;20;0,017;13,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;245;47,845318;11,299596;Boot;5;klein;unklar;;;;;einzeln;;;502;offener See;unbekannt;;4;20;0,014;10,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;246;47,843263;11,295592;Boot;8;mittel;unklar;;;;;einzeln;;;238;offener See;unbekannt;;8;20;0,030;22,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;247;47,841859;11,336194;Boot;11;mittel;unklar;;;;;einzeln;;;136;ufernah;unbekannt;;9;20;0,064;47,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;248;47,840915;11,335493;Boot;6;klein;unklar;;;;;einzeln;;;234;offener See;unbekannt;;4;20;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;249;47,840514;11,336090;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;192;offener See;unbekannt;;5;10;0,021;15,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;250;47,840053;11,335127;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;270;offener See;unbekannt;;4;10;0,018;13,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;251;47,840001;11,335727;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;230;offener See;unbekannt;;5;20;0,014;10,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;252;47,839627;11,336035;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;200;offener See;unbekannt;;5;20;0,014;10,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;253;47,839259;11,335359;Boot;10;mittel;liegt;;;;;Bojenfeld/Hafen;;;250;offener See;unbekannt;;8;10;0,054;40,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;254;47,838878;11,335425;Boot;6;mittel;unklar;;;;;einzeln;;;250;offener See;unbekannt;;4;10;0,023;17,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;255;47,833545;11,334829;Boot;6;klein;unklar;;;;;einzeln;;;90;ufernah;unbekannt;;4;20;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;256;47,833999;11,300293;Boot;7;mittel;unklar;;;;;einzeln;;;648;offener See;unbekannt;;5;20;0,032;24,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;257;47,830287;11,334147;Boot;6;mittel;unklar;;;;;einzeln;;;71;ufernah;unbekannt;;6;10;0,029;21,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;258;47,829917;11,333742;Boot;6;mittel;unklar;;;;;einzeln;;;112;ufernah;unbekannt;;6;20;0,023;17,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;259;47,828143;11,332764;Boot;10;mittel;liegt;;;;;Bojenfeld/Hafen;;;275;offener See;unbekannt;;8;10;0,041;31,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;260;47,828013;11,332492;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;298;offener See;unbekannt;;5;10;0,023;17,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;261;47,828585;11,333057;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;247;offener See;unbekannt;;6;10;0,021;15,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;262;47,827628;11,332325;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;320;offener See;unbekannt;;6;10;0,021;15,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;263;47,828495;11,333294;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;230;offener See;unbekannt;;5;10;0,020;14,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;264;47,827633;11,332577;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;301;offener See;unbekannt;;5;10;0,019;14,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;265;47,827717;11,333357;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;242;offener See;unbekannt;;5;10;0,019;14,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;266;47,828121;11,333789;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;196;offener See;unbekannt;;5;10;0,016;12,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;267;47,827855;11,332853;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;272;offener See;unbekannt;;5;10;0,013;9,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;268;47,828156;11,333314;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;235;offener See;unbekannt;;4;20;0,011;8,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;269;47,826898;11,333716;Boot;10;mittel;liegt;;;;;Bojenfeld/Hafen;;;194;offener See;unbekannt;;6;10;0,049;37,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;270;47,826715;11,333105;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;241;offener See;unbekannt;;5;10;0,017;12,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;271;47,827310;11,333603;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;219;offener See;unbekannt;;5;10;0,013;9,9;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;272;47,826976;11,333093;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;245;offener See;unbekannt;;4;10;0,009;6,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;273;47,827204;11,332195;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;318;offener See;unbekannt;;6;20;0,016;12,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;274;47,826935;11,332475;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;293;offener See;unbekannt;;4;20;0,024;18,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;275;47,827169;11,301572;Boot;6;klein;unklar;;;;;einzeln;;;64;ufernah;unbekannt;;6;10;0,020;15,2;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;276;47,827355;11,300894;Boot;6;mittel;unklar;;;;;einzeln;;;54;ufernah;unbekannt;;8;10;0,016;12,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;277;47,826844;11,301973;Boot;8;mittel;unklar;;;;;einzeln;;;51;ufernah;unbekannt;;9;30;0,018;13,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;278;47,825014;11,318323;Boot;2;klein;unklar;;;;;einzeln;;;377;offener See;unbekannt;;1;10;0,010;7,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;279;47,825119;11,305518;Boot;6;klein;unklar;;;;;einzeln;;;36;ufernah;unbekannt;;5;22;0,016;12,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;280;47,825061;11,306312;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;42;ufernah;unbekannt;;3;10;0,026;19,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;281;47,824959;11,306669;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;45;ufernah;unbekannt;;6;10;0,015;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;282;47,825012;11,306970;Boot;5;klein;unklar;;;;;einzeln;;;57;ufernah;unbekannt;;5;10;0,011;8,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;283;47,824722;11,307453;Boot;5;klein;unklar;;;;;einzeln;;;50;ufernah;unbekannt;;5;30;0,013;9,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;284;47,823344;11,325603;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;51;ufernah;unbekannt;;5;10;0,024;18,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;285;47,823056;11,326407;Boot;7;mittel;liegt;;;;;Bojenfeld/Hafen;;;45;ufernah;unbekannt;;8;10;0,019;14,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;286;47,823964;11,325231;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;126;ufernah;unbekannt;;5;10;0,018;13,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;287;47,823858;11,326053;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;110;ufernah;unbekannt;;4;10;0,017;12,5;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;288;47,823269;11,325972;Boot;6;klein;liegt;;;;;Bojenfeld/Hafen;;;41;ufernah;unbekannt;;7;10;0,015;11,6;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;289;47,823864;11,326930;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;136;ufernah;unbekannt;;3;10;0,014;10,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;290;47,823308;11,326410;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;64;ufernah;unbekannt;;4;10;0,013;10,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;291;47,823576;11,326916;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;113;ufernah;unbekannt;;5;10;0,013;9,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;292;47,823910;11,325635;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;110;ufernah;unbekannt;;4;10;0,012;9,3;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;293;47,823223;11,326883;Boot;5;klein;liegt;;;;;Bojenfeld/Hafen;;;89;ufernah;unbekannt;;6;10;0,012;9,0;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;294;47,823602;11,325958;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;81;ufernah;unbekannt;;5;10;0,008;6,1;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;295;47,824013;11,317371;Boot;6;klein;unklar;;;;;einzeln;;;342;offener See;unbekannt;;4;20;0,019;14,4;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;296;47,823866;11,326432;Boot;4;klein;liegt;;;;;Bojenfeld/Hafen;;;117;ufernah;unbekannt;;4;22;0,012;8,8;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;297;47,823629;11,325134;Boot;6;mittel;liegt;;;;;Bojenfeld/Hafen;;;89;ufernah;unbekannt;;6;20;0,024;17,7;S2C_T32UPU_20260716T100555_L2A
+2026-07-16;Do;10:17;298;47,822290;11,312795;Boot;6;klein;unklar;;;;;einzeln;;;57;ufernah;unbekannt;;4;20;0,017;12,6;S2C_T32UPU_20260716T100555_L2A

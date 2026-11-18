@@ -1,0 +1,8 @@
+# Python-Umgebung (einrichten.sh / einrichten.ps1)
+.venv/
+__pycache__/
+*.pyc
+
+# Ergebnisse eigener Läufe (Beispiele liegen in beispiele/)
+ergebnisse_*/
+*_auswertung/
